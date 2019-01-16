@@ -1,0 +1,52 @@
+{% extends 'base.html' %} 
+{% block content %}
+
+
+    <h2>{{ page_title }}</h2>
+    <p>
+        Vegeta IV (Japanese: ベジータ四世 Hepburn: Beji-ta yon sei)[1] is a fictional character in the Dragon Ball manga series created by Akira Toriyama. Vegeta first appears in chapter #204 Sayonara, Son Goku (さようなら孫悟空 Sayōnara Son Gokū), published in Weekly Shōnen Jump magazine on November 7, 1988[2] seeking the wish-granting Dragon Balls to gain immortality.
+
+Vegeta is the Prince of an extraterrestrial race of warriors known as the Saiyans just like the series' protagonist, Goku. Vegeta is extremely vain and proud, constantly referring to his heritage throughout the series.[3] He believes he should be regarded as the strongest fighter in the Universe and becomes obsessed with surpassing Goku after fighting him. After his loss to Goku and the Z fighters, Vegeta later reluctantly unites with the heroes to thwart greater threats to the universe. Throughout the series, Vegeta's role changes from villain to antihero and later as one of the heroes, while remaining a rival to Goku. Vegeta's character, particularly his personality, has been well received. He is one of the Dragon Ball franchise's most popular characters, and his first confrontation with Goku is considered to be one of the manga and anime's most iconic battles.
+    </p>
+    
+    {% for member in company %}
+    
+    
+    
+    <div class="row featurette">
+        {% if loop.index % 2 != 0 %}
+        
+        <div class="col-md-7">
+            <h3><a href="/about/{{ member.url }}">{{ loop.index }}. {{ member.name }}</a></h3>
+            <p>
+                {{ member.description }}
+            </p>
+        </div>
+        <div class="col-md-5">
+            <img class="featurette-image img-responsive" src="{{ member.image_source }}">
+        </div>
+        {% else %}
+        <div class="col-md-5">
+            <img class="featurette-image img-responsive" src="{{ member.image_source }}">
+        </div>
+        <div class="col-md-7">
+            <h3><a href="/about/{{ member.url }}">{{ loop.index }}. {{ member.name }}</a></h3>
+            <p>
+                {{ member.description }}
+            </p>
+        </div>
+        {% endif %}
+        
+    </div>
+    
+    {% if loop.index !=4 %}
+    
+<hr class="featurette-divider">
+
+    {% endif %}
+    
+    {% endfor %}
+    
+{% endblock %}
+        
+        

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Vegeta",
+        "description": "Vegeta is introduced as the proud prince of the Saiyan (サイヤ人 Saiya-jin) race. He travels to Earth with his comrade Nappa to use the Dragon Balls to wish for immortality.[17] Nappa easily fights off Earth's heroes and kills Tenshinhan, Chaozu, and Piccolo in the process. Goku then arrives after completing his training with Kaiō-sama. Goku easily defeats Nappa who is then killed by Vegeta, for the shame of being defeated by a low class Saiyan such as Goku. Vegeta fights and beats Goku in a very close fight after resorting to his Ozaru form, but is unable to beat the rest of the heroes due to his sustained injuries. Exhausted and being consistently harassed by Gohan, Kuririn and Yajirobe, he barely escapes with his life and is humiliated by the fact that Goku pleaded with Krillin to spare his life.[18] Vegeta travels to planet Namek in an attempt to wish for immortality using that planet's Dragon Balls, cutting the tyrant Freeza off from making the same wish in the process.[19] Upon arrival, Vegeta manages to kill many of Freeza's henchmen and also mercilessly destroys a whole defenseless Namekian village for their Dragon Ball. Later on Vegeta is forced to team up with Gohan, Goku, Piccolo, and Krillin so they can fight off Freeza. He also kills most members of the Ginyu Force. Ultimately, he is defeated and subsequently killed by Freeza while asking Goku to avenge him and all the other Saiyans. Vegeta is unintentionally revived with a wish from the Dragon Balls from Earth.[20][21]",
+        "image_source": "https://upload.wikimedia.org/wikipedia/en/8/88/Vegeta_Dragon_Ball.jpg",
+        "url":"Vegeta"
+    },
+    {
+        "name": "Goku",
+        "description": "Son Goku (Japanese: 孫 悟空（そん ごくう） Hepburn: Son Gokū) is a fictional character and main protagonist of the Dragon Ball manga series created by Akira Toriyama. He is based on Sun Wukong, a main character in the classic Chinese novel Journey to the West. Goku first made his debut in Dragon Ball chapter #1 Bulma and Son Goku (ブルマと孫悟空 Buruma to Son Gokū), originally published in Japan's Weekly Shōnen Jump magazine on June 19, 1984,[1] as an eccentric, monkey-tailed boy who practices martial arts and possesses superhuman strength. He meets Bulma and joins her on a journey to find the wish-granting Dragon Balls. Along the way, he finds new friends who follow him on his journey.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/en/a/af/Son_Goku_YoungAdult.PNG",
+        "url":"Goku"
+    },
+    {
+        "name":"Piccolo",
+        "description": "Piccolo (Japanese: ピッコロ Hepburn: Pikkoro) is a fictional character in the Dragon Ball manga series created by Akira Toriyama. He is first seen as the reincarnation of the evil Piccolo Daimaō in chapter #161 Son Goku Wins!! (孫悟空勝つ!! Son Gokū Katsu!!), published in Weekly Shōnen Jump magazine on February 9, 1988,[1] making him a demon and archrival of the protagonist Son Goku. However, it is later revealed that he is a member of an extraterrestrial humanoid species called Namekians, those able to create the series' eponymous wish-granting Dragon Balls. After losing to Goku, Piccolo decides to team up with him and his friends in order to defeat newer, more dangerous threats. He also trains Goku's first child Gohan in martial arts, with the two forming a strong bond.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/en/4/4b/Piccolo_Dragon_Ball.jpg",
+        "url":"Piccolo"
+    },
+        {
+        "name":"Frieza",
+        "description": "Frieza (Japanese: フリーザ Hepburn: Furīza), romanized as Freeza in Japanese merchandise, Funimation's English subtitles and Viz Media's release of the manga, is a fictional character in the Dragon Ball manga series created by Akira Toriyama. Frieza makes his debut in Chapter #247: Dark Clouds Swirl Over Planet Namek (暗雲うずまくナメック星 An'un Uzumaku Namekkusei), first published in Weekly Shōnen Jump magazine on October 6, 1989,[1] as a galactic tyrant feared as the most powerful being in the universe.Despite not appearing until the manga's second half, Frieza is considered to be the most iconic antagonist from the Dragon Ball franchise due to effectively serving as the catalyst of many of the events depicted in the story, such as Goku's arrival on Earth, the Saiyans landing on Earth, and subsequently the main characters going to planet Namek. In his appearances in the manga itself, he is also directly responsible for the murder of Goku's father Bardock, the genocide of the Saiyan race, the death of Vegeta, and the second death of Goku's best friend Krillin, arguably making him Goku's most personal and significant enemy, and the final confrontation between Goku and Frieza has been hailed as one of the most memorable manga and anime battles ever.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/en/1/14/Frieza_Forms_1-3.PNG",
+        "url":"Frieza"
+    }
+    
+]
